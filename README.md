@@ -1,2 +1,2 @@
-# everskill-example-course
+# everskill-course-template
 Course template for Everskill!
