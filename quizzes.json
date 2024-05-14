@@ -10,8 +10,7 @@
                     "x",
                     "b"
                 ],
-                "difficulty": "hard",
-                "points": 10,
+                "coins": 10,
                 "answer": 3
             },
             {
@@ -22,8 +21,7 @@
                     "3",
                     "4"
                 ],
-                "difficulty": "hard",
-                "points": 10,
+                "coins": 10,
                 "answer": 3
             }
         ]
