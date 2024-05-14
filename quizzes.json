@@ -11,7 +11,19 @@
                     "b"
                 ],
                 "difficulty": "hard",
-                "points": "10",
+                "points": 10,
+                "answer": 3
+            },
+            {
+                "q": "What comes after B?",
+                "a": [
+                    "never gonna give you up",
+                    "c",
+                    "3",
+                    "4"
+                ],
+                "difficulty": "hard",
+                "points": 10,
                 "answer": 3
             }
         ]
