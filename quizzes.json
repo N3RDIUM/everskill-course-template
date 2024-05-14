@@ -1,3 +1,18 @@
 {
-    "0": "TODO"
+    "0": {
+        "title": "Very Hard Quiz",
+        "questions": [
+            {
+                "q": "What comes after A?",
+                "a": [
+                    "z",
+                    "never gonna give you up",
+                    "x",
+                    "b"
+                ],
+                "difficulty": "hard",
+                "points": "10"
+            }
+        ]
+    }
 }

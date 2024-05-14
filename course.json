@@ -1,7 +1,7 @@
 {
     "pages": {
         "home": {
-            "html": "https://raw.githubusercontent.com/N3RDIUM/everskill-course-template/main/src/home.html",
+            "html": "https://raw.githubusercontent.com/N3RDIUM/everskill-course-template/main/src/index.html",
             "title": "asdfasdfasdfasdf"
         }
     }
