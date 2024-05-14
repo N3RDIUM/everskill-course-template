@@ -1,8 +1,15 @@
 {
+    "coverart": "TODO",
+    "title": "TODO",
+    "tags": [
+        "example"
+    ],
     "pages": {
         "home": {
             "html": "https://raw.githubusercontent.com/N3RDIUM/everskill-course-template/main/src/index.html",
             "title": "asdfasdfasdfasdf"
         }
-    }
+    },
+    "quizzes": "https://raw.githubusercontent.com/N3RDIUM/everskill-course-template/main/quizzes.json",
+    "achievements": "https://raw.githubusercontent.com/N3RDIUM/everskill-course-template/main/achievements.json"
 }
