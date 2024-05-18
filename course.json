@@ -8,7 +8,13 @@
     "pages": {
         "home": {
             "html": "https://raw.githubusercontent.com/N3RDIUM/everskill-course-template/main/src/index.html",
-            "title": "asdfasdfasdfasdf"
+            "title": "asdfasdfasdfasdf",
+            "welcome": true
+        },
+        "otherpage": {
+            "html": "https://raw.githubusercontent.com/N3RDIUM/everskill-course-template/main/src/page1.html",
+            "title": "pwefpweijwiepfjp",
+            "goodbye": true
         }
     },
     "quizzes": "https://raw.githubusercontent.com/N3RDIUM/everskill-course-template/main/quizzes.json",
